@@ -1,0 +1,19 @@
+{
+  "diffEditor.ignoreTrimWhitespace": false,
+  "diffEditor.renderSideBySide": true,
+  "editor.insertSpaces": false,
+  "editor.rulers": [160],
+  "explorer.confirmDelete": false,
+  "gitlens.gitCommands.closeOnFocusOut": true,
+  "javascript.format.enable": false,
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "javascript.validate.enable": false,
+  "vsicons.dontShowNewVersionMessage": true,
+  "window.zoomLevel": 0,
+  "workbench.editor.enablePreview": false,
+  "workbench.iconTheme": "material-icon-theme",
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  }
+}
